@@ -1,5 +1,4 @@
 {
-	"token": "",
-    "clientId": "1121938818904371200",
-    "guildId": ""
+	"token": "your-token-goes-here",
+	"clientId": "your-application-id-goes-here"
 }
